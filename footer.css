@@ -1,0 +1,11 @@
+footer {
+	background: orange;
+	padding: 120px;
+	margin-top: 50px;
+}
+
+.copyright {
+	text-align: center;
+	font-size: 13px;
+	font-weight: bold;
+}

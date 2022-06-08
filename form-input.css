@@ -1,0 +1,9 @@
+form input, textarea {
+	border-radius: 10px;
+	border-color: #000000;
+	display: block;
+	font-weight: bold;
+	margin-top: 20px;
+	padding: 30px;
+	width: 80%;
+}
