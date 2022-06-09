@@ -1,0 +1,21 @@
+.enviar {
+	margin-top: 20px;
+	background: pink;
+	border-radius: 10px;
+	padding: 40px;
+	border: none;
+	cursor: pointer;
+	color: black;
+	font-size: 2em;
+	width: 55%;
+	font-family: 'Pacifico', sans-serif;
+	color: white;
+	margin-left: 30px;
+	font-weight: bold;
+	transition: 1s all;
+}
+
+.enviar:hover {
+	background: purple;
+	transform: scale(1.2);
+}

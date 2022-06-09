@@ -1,0 +1,17 @@
+footer {
+    background: #FFC0CB;
+    padding: 40px;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    padding-top: 10px;
+    font-weight: bold;
+}
+
+.logo-rodape {
+    height: 200px;
+    padding-left: 620px;
+}

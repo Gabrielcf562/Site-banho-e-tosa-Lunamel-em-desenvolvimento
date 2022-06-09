@@ -1,0 +1,9 @@
+.input-padrao {
+	display: block;
+	padding: 30px;
+	margin: 20px;
+	margin-top: 30px;
+	width: 50%;
+	border-color: #000000;
+	border-radius: 10px;
+}

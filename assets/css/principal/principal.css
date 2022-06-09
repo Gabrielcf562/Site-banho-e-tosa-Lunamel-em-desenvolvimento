@@ -1,0 +1,14 @@
+main {
+	background: linear-gradient(#FEFEFE 30%, #FF007F);
+}
+
+.banner {
+    width: 100%;
+    height: 650px;
+}
+
+.principal {
+	padding: 3em 0;
+	width: 940px;
+	margin: 0 auto;
+}
